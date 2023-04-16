@@ -2,7 +2,7 @@
 
 ## Table of Contenets
 * [Description](#Description)
-* [Install and setup JavaFX](#Install and setup JavaFX)
+* [Install and setup JavaFX](#Install-and-setup-JavaFX)
 * [Controls](#Controls)
 * [Power-ups](#Power-ups)
 * [Enemies](#Enemies)
@@ -12,7 +12,7 @@
 Space Force is a space shooter game with different enemies and power-ups.
 
 # Install and setup JavaFX
-You can follow this <a href="https://www.youtube.com/watch?v=_7OM-cMYWbQ"> tutorial</a> if you are using eclipse or this <a href="https://www.youtube.com/watch?v=Ope4icw6bVk&t=1s"> tutorial</a> for eclipse.
+You can follow this <a href="https://www.youtube.com/watch?v=_7OM-cMYWbQ"> tutorial</a> if you are using eclipse or this <a href="https://www.youtube.com/watch?v=Ope4icw6bVk&t=1s"> tutorial</a> for IntelliJ.
 
 # Controls
 <div align="center"><img src="/media/Controls.png" alt="Controls"></div>
